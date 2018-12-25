@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# PyCharm
+.idea
+
+# Python
+__pycache__/
+
+# Research OpenCV
+research/opencv/src/mvp3/images
+
+# Research TensorFlow
+research/tensorflow/images
+research/tensorflow/src/train1/data
+research/tensorflow/src/train1/model
+research/tensorflow/src/train1/model.usercnn
+
